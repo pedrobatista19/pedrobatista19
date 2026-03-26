@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Chaves Teixeira! 👋
+# Olá, eu sou o Pedro Chaves Teixeira!
 
 Desenvolvedor e entusiasta de dados. Sou estudante de **Ciência da Computação na Universidade Franciscana (UFN)** e atualmente aplico meus conhecimentos de tecnologia e análise de dados na **Baristo Cafés**. 
 
