@@ -23,8 +23,8 @@ Desenvolvedor e entusiasta de dados. Sou estudante de **Ciência da Computação
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrobatista19&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobatista19&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=pedrobatista19&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrobatista19&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
 </div>
 
 ---
